@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data-adder-react/static/css/main.a418ada1.css",
+    "main.js": "/Data-adder-react/static/js/main.f7b7aec0.js",
+    "index.html": "/Data-adder-react/index.html",
+    "main.a418ada1.css.map": "/Data-adder-react/static/css/main.a418ada1.css.map",
+    "main.f7b7aec0.js.map": "/Data-adder-react/static/js/main.f7b7aec0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a418ada1.css",
+    "static/js/main.f7b7aec0.js"
+  ]
+}
